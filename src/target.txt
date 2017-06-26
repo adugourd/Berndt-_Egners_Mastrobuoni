@@ -1,0 +1,15 @@
+sample	condition
+Control_1.1.	control
+Control_2.1.	control
+Control_3.1.	control
+Control_4.1.	control
+Control_5.1.	control
+Control_6.1.	control
+Control_7.1.	control
+Cancer_644.1.	cancer
+Cancer_657.1.	cancer
+Cancer_658.1.	cancer
+Cancer_659.1.	cancer
+Cancer_761.1.	cancer
+Cancer_763.1.	cancer
+Cancer_766.1.	cancer
